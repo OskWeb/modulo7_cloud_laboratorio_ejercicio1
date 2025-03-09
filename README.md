@@ -1,4 +1,5 @@
 He obtado por tener un repositorio independiente para subir la build y realizar el despliegue.
+
 Partiendo de una app de react seguimos los siguientes pasos: 
 
 1. Añadimos en la sección defineConfig de vite.config.ts el base apuntando al nombre del repositorio:
@@ -8,9 +9,7 @@ Partiendo de una app de react seguimos los siguientes pasos:
 ![router](https://github.com/user-attachments/assets/746e2815-ba28-4675-84fe-ff6397d71d70)
 
 3. Realizamos una build:
-   
 npm run build
-
 ![build](https://github.com/user-attachments/assets/7b2c09de-f896-47b2-9e73-a3184eb61813)
 
 4. Copiamos el contenido de dist al repositorio donde queremos desplegar la app y la subimos:
