@@ -19,9 +19,9 @@ npm run build
 
 ![git_push](https://github.com/user-attachments/assets/6c96c178-4c10-4085-952d-1d7b20fbc3d6)
 
-5. Dentro del apartado de github pages indicamos que queremos usar la rama main partiendo del root:
+5. Dentro del apartado de github pages indicamos que queremos usar la rama main partiendo de docs:
    
-![github_pages](https://github.com/user-attachments/assets/ad409451-b0ec-450e-9396-234f21d0b17c)
+![github_pages](https://github.com/user-attachments/assets/55f88312-56e0-4159-bcd7-6e186539c706)
 
 6. Ahora cada vez que github detecta un nuevo commit en la rama main realizará un action para tener nuestro despliegue listo:
     
